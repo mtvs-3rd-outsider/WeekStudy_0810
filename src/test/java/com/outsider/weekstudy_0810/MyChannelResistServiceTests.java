@@ -25,7 +25,8 @@ public class MyChannelResistServiceTests {
         return Stream.of(
                 Arguments.of("John Doe", "This is John's bio", "New York, NY, USA", LocalDate.now(), "https://example.com", 100, 50, 200, "john_doe", "john.doe@example.com"),
                 Arguments.of("Jane Smith", "This is Jane's bio", "Los Angeles, CA, USA", LocalDate.now(), "https://example.org", 150, 75, 250, "jane_smith", "jane.smith@example.org"),
-                Arguments.of("Jane Smith", "", "", LocalDate.now(), "", 0, 0, 0, "jane_smith", "jane.smith@example.org")
+                Arguments.of("Jane Smith", "", "", LocalDate.now(), "", 0, 0, 0, "jane_smith", "jane.smith@example.org"),
+                Arguments.of("Jane Smith", null , null, LocalDate.now(), null, 0, 0, 0, "jane_smith", "jane.smith@example.org")
         );
     }
 
