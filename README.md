@@ -1,19 +1,10 @@
 # WeekStudy_0810
 8월 2주차 주말 스터디
-# 프로젝트 이름
-
-<p align="center">
-  <br>
-  <img src="./images/common/logo-sample.jpeg">
-  <br>
-</p>
-
-목차
 
 ## 프로젝트 소개
 
 <p align="justify">
-프로젝트 개요/동기
+JPA 연습및 도메인구현
 </p>
 
 <p align="center">
