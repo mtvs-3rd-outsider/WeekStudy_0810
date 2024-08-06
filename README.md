@@ -7,24 +7,7 @@
 JPA 연습및 도메인구현
 </p>
 
-<p align="center">
-GIF Images
-</p>
-
 <br>
-
-
-<br>
-
-## 🔻 Repository
-
-> ⚙️ **[BackEnd Repository](https://github.com/mtvs-3rd-outsider/master-of-prediction)**
-<br>
-
-> ⚙️ **[Team Notion](https://www.notion.so/ohgiraffers/572fe06c07714028b3f9a834d6726c03)**
-
-<br>
-
 ## 👋 팀원 소개
 
 #### 풀스택
@@ -74,13 +57,3 @@ GIF Images
 
 <br>
 
-## 라이센스
-
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
